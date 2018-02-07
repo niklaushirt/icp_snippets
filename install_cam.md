@@ -27,31 +27,7 @@ docker login mycluster.icp:8500
 bx pr load-ppa-archive --namespace services --archive icp-cam-x86_64-2.1.0.1_12-17.tar.gz
 ```
 
-```bash
-User name			
-niklaushirt				
 
-Access key ID
-AKIAI3ECCHD2UXDDDPQQ
-
-Secret access key
-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
-
-Console login link
-https://582147391765.signin.aws.amazon.com/console
-
-
-
-
-https://github.com/niklaushirt/starterlibrary
-
-d3e2557f9d60fa06efee0c89d94c76f860576f2e
-
-AWS/terraform/hcl/lamp
-
-v1.0.0
-
-```
 
 ```bash
 sudo mkdir -p /storage/CAM_db
